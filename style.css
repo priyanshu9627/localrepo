@@ -1,3 +1,18 @@
-p{
-    color: red;
+
+
+div{
+    width: 100px;
+    height: 100px;
+    align-items: center;
+   background-color: aqua;
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
+
+body{
+   display: flex;
+   justify-content: center;
+    
+}
+
